@@ -1,0 +1,22 @@
+[
+  {
+    "emailId": "shusi@microsoft.com",
+    "isActive": true,
+    "authorizedGroups": [
+      4,5,10
+    ]
+  },
+  {
+    "emailId": "Prasanna.Pallipalayam@microsoft.com",
+    "isActive": true,
+    "authorizedGroups": [
+      4
+    ]
+  },
+  {
+    "emailId": "shubham.singhal@microsoft.com",
+    "isActive": false
+    "authorizedGroups": [
+      0
+    ]
+  }
